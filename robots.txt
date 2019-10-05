@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daepaingu.ihouzi.com/sitemap.xml
